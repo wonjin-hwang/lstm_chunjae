@@ -6,3 +6,8 @@
 
 ![image](https://github.com/wonjin-hwang/lstm_chunjae/assets/147077087/135c05e3-83b6-40a3-98c0-06bd488e6db4)
 
+이러한 데이터를 
+
+![image](https://github.com/wonjin-hwang/lstm_chunjae/assets/147077087/627cc8d5-0bda-4376-aaa1-cd919bc8b252)
+
+이렇게 변경하였다.
