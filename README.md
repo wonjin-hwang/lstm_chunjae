@@ -1,12 +1,6 @@
-![image](https://github.com/wonjin-hwang/lstm_chunjae/assets/147077087/045d28b8-eb43-4396-88a4-c36cec7c2f32)# lstm_chunjae
+목표:
+-한국가스공사의 시간단위 공급량 내부데이터와 기상정보 및 가스외 발전량 등 외부데이터를 포함한 데이터셋을 구축하여 90일 한도 일간 공급량을 예측하는 인공지능 모델 개발
+-> "데이터셋을 구축하여 실제와 예측값을 비교하자"
 
-목표
-
-데이터 구축
-
-EDA
-
-모델생성과정
-
-결과 및 개선점
-![image](https://github.com/wonjin-hwang/lstm_chunjae/assets/147077087/3d4c4adc-a176-41a6-9e3b-26c15c7e16a8)
+데이터셋 구축:
+![image](https://github.com/wonjin-hwang/lstm_chunjae/assets/147077087/1f3b3dba-033b-40de-83aa-bd2b521c30d3)
