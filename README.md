@@ -3,4 +3,6 @@
 -> "데이터셋을 구축하여 실제와 예측값을 비교하자"
 
 데이터셋 구축:
-![image](https://github.com/wonjin-hwang/lstm_chunjae/assets/147077087/1f3b3dba-033b-40de-83aa-bd2b521c30d3)
+
+![image](https://github.com/wonjin-hwang/lstm_chunjae/assets/147077087/135c05e3-83b6-40a3-98c0-06bd488e6db4)
+
